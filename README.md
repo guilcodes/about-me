@@ -4,7 +4,7 @@
 I study at the intersection of medicine and engineering, focusing on how data-driven systems and IoT can revolutionize patient care. My background as a Biomedical Engineering student allows me to bridge the gap between human physiology and technical solutions.
 
 **🛠 Technical Toolkit**
-- Programming & Data:	MatLab, Python, SQL, HTML, CSS
+- Programming & Data:	MatLab, Python, SQL, HTML, CSS, Altova Workforce
 - Engineering & CAD:	SolidWorks, OnShape
 - Design & UI/UX:	Figma, Canva
 - Workflow & Ops:	Google Workspace, Operations Management
